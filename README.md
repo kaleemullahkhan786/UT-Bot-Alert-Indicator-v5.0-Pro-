@@ -10,9 +10,6 @@
 <!-- Add your main chart screenshot here: images/chart-overview.png -->
 ![UT Bot Indicator - Chart View](chart.png)
 
-
-> **Note:** Place your screenshots in the `images` folder with the filenames above, or update the paths to match your image names.
-
 ---
 
 ## Overview
